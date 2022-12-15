@@ -1,4 +1,5 @@
  <?php
+ echo "123";
   $url = $_GET['url'];
   //获取视频url
   $url = get_redirect_url($url);
